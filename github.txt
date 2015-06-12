@@ -56,7 +56,7 @@
  				<strong>Powered by Pony</strong>
  			</p>
  			<p>
- 				almenar.la 2015
+ 				mejorando.la 2015
  			</p>
  		</footer>
 
